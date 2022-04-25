@@ -1,6 +1,9 @@
 # SaberToTesla
 
-## Bahelor 2022
+![Poster](images/poster.PNG)
+Le poster du projet (réalisé par Constantin H.)
+
+## Bachelor 2022
 Le projert SaberToTesla est un projet regroupant la passion du jeu vidéo, des tesla et de l'informatique. Ce projet représente la fin de mes études de bachelor à la HEG. 
 
 ### Dates
