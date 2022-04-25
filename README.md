@@ -1,4 +1,4 @@
-# SaberToTesla
+# Saber To Tesla
 
 ![Poster](images/poster.PNG)
 Le poster du projet (réalisé par Constantin H.)
