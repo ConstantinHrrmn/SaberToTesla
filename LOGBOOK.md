@@ -13,6 +13,8 @@ Beatsaber propose une documentation de sa structure de donnée initalement prév
 
 [Documentation](https://bsmg.wiki/mapping/map-format.html#base-object) beatsaber pour les maps.
 
+Afin de pouvoir facilement télécharger les Maps. Il existe une [API](https://api.beatsaver.com/docs/index.html?url=./swagger.json#/). 
+
 ## TeslaLightShare.io
 Teslashare.io est une plateforme qui permet aux personnes de facilement pouvoir partager leur création de lightshow. Cependant, ce site ne permet pas la création de lightshow, il s'agit uniquement d'un répertoire.
 
