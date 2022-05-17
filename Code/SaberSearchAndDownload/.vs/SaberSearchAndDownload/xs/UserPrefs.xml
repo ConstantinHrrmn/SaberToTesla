@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7B9B5C49-3F8A-430B-A884-470DA2525CED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SaberSearchAndDownload/Program.cs">
+    <Files>
+      <File FileName="SaberSearchAndDownload/Program.cs" Line="1" Column="1" />
+      <File FileName="SaberSearchAndDownload/ApiManager.cs" Line="30" Column="1" />
+      <File FileName="SaberSearchAndDownload/Map.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SaberSearchAndDownload" expanded="True">
+            <Node name="SaberSearchAndDownload" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SaberSearchAndDownload PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

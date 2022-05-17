@@ -21,11 +21,10 @@ Teslashare.io est une plateforme qui permet aux personnes de facilement pouvoir 
 #Roadmap
 ## Objectifs en cours
 
-- Analyser et comprendre le fonctionnement des maps de beatsaber
+- Analyser et comprendre le fonctionnement des maps de beatsaber (OK)
 - Analyser et comprendre le fonctionnement d'un lightshow Tesla
 - Analyser la structure à mettre en place pour l'API
-- Comprendre le fonctionnement du [site de téléchargement de map beatsaber](https://bsaber.com)
-
+- Comprendre le fonctionnement de l'API (En cours)
 #Beatsaber
 
 Beatsaber utilise une structure de dossier toujours identique pour les "maps".
@@ -63,3 +62,13 @@ Voici les types possibles :
 |  1|  Right (Blue) Note |
 |  2 | Unused  |
 |  3 | Bomb  |
+
+# Recherche et téléchargement de maps
+Donc comme annoncé précédemment, il est possible de passer par une API, afin de récupérer des maps custom faites par des joueurs du monde entier. 
+
+## TODO
+- Création du script permettant de rechercher des maps depuis l'application sur l'API
+- Création du script permettant de télécharger la map
+- Création du script permettant d'analyser la map + les fichiers fournis 
+
+
