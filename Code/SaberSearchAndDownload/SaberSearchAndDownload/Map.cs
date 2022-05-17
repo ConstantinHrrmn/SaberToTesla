@@ -32,6 +32,8 @@ namespace SaberSearchAndDownload
             this.downloadPath = downloadPath;
         }
 
+        public Map() { }
+
         public override string ToString()
         {
             return name;

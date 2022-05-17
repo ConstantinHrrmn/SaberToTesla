@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace SaberSearchAndDownload
 {
@@ -8,7 +9,17 @@ namespace SaberSearchAndDownload
         {
             Console.WriteLine("Hello World!");
 
-            ApiManager.GetLatestMaps();
+            List<Map> maps = ApiManager.GetLatestMaps();
+
+            foreach (Map map in maps)
+                Console.WriteLine(map);
+
+            string search = "Imagine Dragons";
+
+            List<Map> searchMaps = ApiManager.SearchMaps(search,0);
+
+            foreach (Map map in searchMaps)
+                Console.WriteLine(map);
         }
     }
 }

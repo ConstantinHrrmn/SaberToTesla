@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/luxra/Documents/GitHub/SaberToTesla/Code/SaberSearchAndDownload/SaberSearchAndDownload/SaberSearchAndDownload.csproj": {}
+    "C:\\Users\\Constantin\\Documents\\GitHub\\SaberToTesla\\Code\\SaberSearchAndDownload\\SaberSearchAndDownload\\SaberSearchAndDownload.csproj": {}
   },
   "projects": {
-    "/Users/luxra/Documents/GitHub/SaberToTesla/Code/SaberSearchAndDownload/SaberSearchAndDownload/SaberSearchAndDownload.csproj": {
+    "C:\\Users\\Constantin\\Documents\\GitHub\\SaberToTesla\\Code\\SaberSearchAndDownload\\SaberSearchAndDownload\\SaberSearchAndDownload.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/luxra/Documents/GitHub/SaberToTesla/Code/SaberSearchAndDownload/SaberSearchAndDownload/SaberSearchAndDownload.csproj",
+        "projectUniqueName": "C:\\Users\\Constantin\\Documents\\GitHub\\SaberToTesla\\Code\\SaberSearchAndDownload\\SaberSearchAndDownload\\SaberSearchAndDownload.csproj",
         "projectName": "SaberSearchAndDownload",
-        "projectPath": "/Users/luxra/Documents/GitHub/SaberToTesla/Code/SaberSearchAndDownload/SaberSearchAndDownload/SaberSearchAndDownload.csproj",
-        "packagesPath": "/Users/luxra/.nuget/packages/",
-        "outputPath": "/Users/luxra/Documents/GitHub/SaberToTesla/Code/SaberSearchAndDownload/SaberSearchAndDownload/obj/",
+        "projectPath": "C:\\Users\\Constantin\\Documents\\GitHub\\SaberToTesla\\Code\\SaberSearchAndDownload\\SaberSearchAndDownload\\SaberSearchAndDownload.csproj",
+        "packagesPath": "C:\\Users\\Constantin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Constantin\\Documents\\GitHub\\SaberToTesla\\Code\\SaberSearchAndDownload\\SaberSearchAndDownload\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/luxra/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Constantin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

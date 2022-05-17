@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MP1reCvFx6RcjiO2aIVozy7CcVZYtcXQtDrBhjDE5VfQC6XNw6Nh+P+jWMDbjGvslJQhn/QZExU02iyhHsHjXw==",
+  "dgSpecHash": "j7YNQ6v46LDFx4Ywll86J2eadR5j2jfd0dbcUxxrz4zSMId2qt0KF+nbUjPdR8WRXbpda2IoJqqGZsIe+3VriQ==",
   "success": true,
-  "projectFilePath": "/Users/luxra/Documents/GitHub/SaberToTesla/Code/SaberSearchAndDownload/SaberSearchAndDownload/SaberSearchAndDownload.csproj",
+  "projectFilePath": "C:\\Users\\Constantin\\Documents\\GitHub\\SaberToTesla\\Code\\SaberSearchAndDownload\\SaberSearchAndDownload\\SaberSearchAndDownload.csproj",
   "expectedPackageFiles": [
-    "/Users/luxra/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Constantin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
