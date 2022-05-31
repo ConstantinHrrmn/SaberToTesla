@@ -53,6 +53,12 @@ namespace SaberSearchAndDownload
             }
         }
 
+        /// <summary>
+        /// Search for maps depending on the search term
+        /// </summary>
+        /// <param name="search">Search term to match</param>
+        /// <param name="page">The page to download</param>
+        /// <returns>The list of maps that corresponds to the search terms</returns>
         public static List<Map> SearchMaps(string search, int page)
         {
             search = search.Replace(" ", "%20");
