@@ -25,7 +25,9 @@ namespace SaberSearchAndDownload
 
             string path = DownloadManager.Download(maps[0].DownloadPath, maps[0].Id);
 
-            foreach (string item in FileManager.GetFiles(path, "*.dat"))
+            Console.WriteLine("Info file : " + FileManager.GetInfoDat(path));
+
+            foreach (string item in FileManager.GetLevelFiles(FileManager.GetFiles(path, "*.dat")))
             {
                 Console.WriteLine(item);
             }

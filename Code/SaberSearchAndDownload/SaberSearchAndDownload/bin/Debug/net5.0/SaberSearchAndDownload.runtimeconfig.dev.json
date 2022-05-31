@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Constantin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Constantin\\.nuget\\packages"
+      "/Users/luxra/.dotnet/store/|arch|/|tfm|",
+      "/Users/luxra/.nuget/packages"
     ]
   }
 }

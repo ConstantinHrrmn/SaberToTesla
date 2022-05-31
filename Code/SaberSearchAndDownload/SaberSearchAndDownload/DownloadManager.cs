@@ -4,6 +4,7 @@ using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Net;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -22,7 +23,13 @@ namespace SaberSearchAndDownload
         
         public static string Download(string url, string fileName)
         {
-            string downloadFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\SaberSearchAndDownload\\";
+            string downloadFolder = "";
+
+            if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+                downloadFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\SaberSearchAndDownload\\";
+            else
+                downloadFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "/SaberSearchAndDownload/";
+
 
             CreateFolder(downloadFolder);
             
